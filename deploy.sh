@@ -11,6 +11,6 @@ git add -A
 git commit -m 'deploy'
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:lisaozerova/async-component.git master:gh-pages
+git push -f git@github.com:lisaozerova/asynchronous-component.git master:gh-pages
 
 cd -
