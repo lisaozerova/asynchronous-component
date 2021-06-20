@@ -1,5 +1,5 @@
 <template>
-  <h1>Options Usage Async Component</h1>
+  <h1>Options usage async component</h1>
 
   <div class="app">
     <AsyncComponent />
@@ -54,7 +54,7 @@ body {
 }
 
 h1 {
-  background-color: #40b983;
+  background-color: #f77cff;
   font-size: 35px;
   margin: 0;
   padding: 25px;
