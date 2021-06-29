@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a427a"],{"04dd":function(n,a,e){"use strict";e.r(a);var c=e("7a23"),d=Object(c["d"])("p",null,"Hi, Michail!",-1),l=Object(c["d"])("p",null,"This is a standalone component loaded asynchronously.",-1),t=Object(c["d"])("p",null,"Have a nice day!",-1);function o(n,a,e,o,u,i){return Object(c["f"])(),Object(c["c"])(c["a"],null,[d,l,t],64)}var u={name:"StandAlone"};u.render=o;a["default"]=u}}]);
+//# sourceMappingURL=chunk-2d0a427a.a48dab26.js.map
